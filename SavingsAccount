@@ -1,0 +1,6 @@
+SavingsAccount inherits Account_Inheritance;
+
+public SavingsAccount{
+	
+
+}
